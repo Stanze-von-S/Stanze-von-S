@@ -1,12 +1,12 @@
-### Добрый день, я - Константин, Frontend-разработчик.
+# Добрый день, я - Константин, Frontend-разработчик.
 ## Мой стек технологий:
-# Frontend:
+### Frontend:
 JS, React, Redux (Saga), HTML5, CSS3, Bootstrap, canvas
 
-# Backend:
+### Backend:
 Node.js, Express
 
-# DB:
+### DB:
 PostgreSQL, Sequelize ORM
 
 ## Я люблю:
