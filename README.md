@@ -1,7 +1,7 @@
 # Добрый день, я - Константин, Frontend-разработчик.
 ## Мой стек технологий:
 ### Frontend:
-JavaScript, React, Redux (Saga), TypeScript, HTML5, CSS3, Bootstrap, canvas, Jest
+JavaScript, React, Redux (Saga), TypeScript, HTML5, CSS3, Bootstrap, Canvas, Jest
 
 ### Backend:
 Node.js, Express
